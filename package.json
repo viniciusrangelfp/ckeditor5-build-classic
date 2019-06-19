@@ -86,5 +86,8 @@
     "hooks": {
       "pre-commit": "lint-staged"
     }
+  },
+  "dependencies": {
+    "@ckeditor/ckeditor5-autosave": "^11.0.2"
   }
 }
